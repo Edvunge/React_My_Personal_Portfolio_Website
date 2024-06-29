@@ -14,7 +14,7 @@ const Services = () => {
             <h3>I Tech Programming</h3>
           </div>
 
-          <ul>
+          <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
               <p>Learn all about Git and GitHub</p>
@@ -41,28 +41,28 @@ const Services = () => {
             </li>
           </ul>
         </article>
-        {/* END OF Ensino a Programar */}
+        {/* END OF Tech Programming */}
         <article className="service">
           <div className="service__head">
             <h3>Web Development</h3>
           </div>
 
-          <ul>
+          <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Creating Websites & Web Pages</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Creating Single Pages Applications (SPA)</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Creation of Web Pages with WordPress</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>E-commerce Creation with Woocomerce</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
@@ -80,7 +80,7 @@ const Services = () => {
             <h3>CONTENT CREATION</h3>
           </div>
 
-          <ul>
+          <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
               <p>Lorem ipsum dolor sit amet consectetur elit.</p>
