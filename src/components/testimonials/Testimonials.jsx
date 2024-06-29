@@ -14,48 +14,48 @@ const Testimonials = () => {
 
       <div className="container testimonials__container">
         <article className="testimonial">
-          <div className="client__avatar">
+         <div className="client__avatar">
             <img src={AVTR1} alt="Avatar One" />
+         </div>
             <h5 className='client__name'>Ernest Achiever</h5>
             <small className='client__review'>
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
               Beatae eos cupiditate nulla doloremque corrupti totam in fugit molestiae rerum nisi, 
               quisquam, amet culpa nemo facilis, repudiandae tenetur quo quae fugiat?
             </small>
-          </div>
         </article>
         <article className="testimonial">
-          <div className="client__avatar">
-            <img src={AVTR2} alt="Avatar One" />
+         <div className="client__avatar">
+            <img src={AVTR1} alt="Avatar One" />
+         </div>
             <h5 className='client__name'>Ernest Achiever</h5>
             <small className='client__review'>
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
               Beatae eos cupiditate nulla doloremque corrupti totam in fugit molestiae rerum nisi, 
               quisquam, amet culpa nemo facilis, repudiandae tenetur quo quae fugiat?
             </small>
-          </div>
         </article>
         <article className="testimonial">
-          <div className="client__avatar">
-            <img src={AVTR3} alt="Avatar One" />
+         <div className="client__avatar">
+            <img src={AVTR1} alt="Avatar One" />
+         </div>
             <h5 className='client__name'>Ernest Achiever</h5>
             <small className='client__review'>
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
               Beatae eos cupiditate nulla doloremque corrupti totam in fugit molestiae rerum nisi, 
               quisquam, amet culpa nemo facilis, repudiandae tenetur quo quae fugiat?
             </small>
-          </div>
         </article>
         <article className="testimonial">
-          <div className="client__avatar">
-            <img src={AVTR4} alt="Avatar One" />
+         <div className="client__avatar">
+            <img src={AVTR1} alt="Avatar One" />
+         </div>
             <h5 className='client__name'>Ernest Achiever</h5>
             <small className='client__review'>
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
               Beatae eos cupiditate nulla doloremque corrupti totam in fugit molestiae rerum nisi, 
               quisquam, amet culpa nemo facilis, repudiandae tenetur quo quae fugiat?
             </small>
-          </div>
         </article>
       </div>
     </section>
