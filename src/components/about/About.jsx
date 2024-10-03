@@ -41,9 +41,10 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Nam cumque dolorum officiis rem nemo! Mollitia reprehenderit sint, 
-            voluptate culpa ad aspernatur perspiciatis deserunt error eos molestiae quae numquam sit eius?
+              Hi guys! I'm Edvaldo Vunge. I face challenges head on, driven by motivation and dedication.
+              Reading and music are my passions. Professionally, I started at INDRA.PT as a Java Junior
+              Backend Developer, worked as a cobol programmer at Capgemini for 9 months,
+              I'm currently looking for a new opportunity And i‘m working as a freelancer.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
