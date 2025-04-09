@@ -88,6 +88,12 @@
    }
 }
 
+.ecv-apps-link {
+    color: var(--color-primary); /* ou qualquer cor que combine com seu tema */
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 /* ======================== MEDIA QUERIES (SMALL DEVICES) ========================= */
 @media screen and (max-width: 600px) {
     .about__me {

@@ -41,11 +41,13 @@ const About = () => {
           </div>
 
           <p>
-              Hi guys! I'm Edvaldo Vunge. I face challenges head on, driven by motivation and dedication.
-              Reading and music are my passions. Professionally, I started at INDRA.PT as a Java Junior
-              Backend Developer, worked as a cobol programmer at Capgemini for 9 months,
-              I'm currently looking for a new opportunity And i‘m working as a freelancer.
-          </p>
+              Hello, everyone! My name is Edvaldo Vunge. 
+              I face challenges head on, driven by motivation and dedication. 
+              Reading and music are my passions. Professionally, 
+              I started at INDRA.PT as a Java Junior Backend Developer, 
+              I worked as a cobol programmer at Capgemini for 9 months, 
+              currently I'm focused on my small startUp <a href="https://www.linkedin.com/company/105138171/admin/dashboard/" target="_blank" rel="noopener noreferrer" className="ecv-apps-link">ECV_APPS</a> and in it I'm developing new tools, SAAS, and custom software.
+        </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
