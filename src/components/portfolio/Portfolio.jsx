@@ -20,9 +20,9 @@ const data = [
   {
     id: 2, 
     image: IMG2,
-    title: 'ChatDocs Saas App', 
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16580766-Orion-Ul-kit-Charts-templates-infographics-in-Figma'
+    title: 'CV - Analyzer', 
+    github: 'https://github.com/ECV-APPS/AI-Resume-VITAE',
+    demo: 'https://puter.com/app/cv-analyzer'
   },
   {
     id: 3, 
